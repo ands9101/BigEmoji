@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BigMoji</string>
+    <string name="more_info_button">Mas info acerca del paquete de stickers</string>
+    <string name="add_to_whatsapp">Agregrar a WhatsApp</string>
+    <string name="add_button_content_description">Agregar paquete de stickers a WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Paquetes de stickers</string>
+    <string name="tray_image_content_description">Imagen del Paquete</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Paquete de Sticker</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalle de sticker</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">Ver pagina web</string>
+    <string name="send_email">Enviar e-mail</string>
+    <string name="privacy_policy">Politica de Privacidad</string>
+    <string name="title_validation_error">Error con el paquete</string>
+    <string name="info_screen_tray_icon">Icono</string>
+    <string name="details_pack_already_added">Paquete de sticker agregado a WhatsApp</string>
+    <string name="info_send_email_to_prompt">Enviar e-mail con</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Paquete de sticker no agregado. Si desea agregarlo, asegúrese de actualizar a la última versión de WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Actualizar</string>
+    <string name="cannot_find_play_store">Google Play no está instalado en el dispositivo.</string>
+    <string name="error_message">Error: %s  See logcat for stack trace.</string>
+    <string name="error_adding_sticker_pack">No se pudo agregar este paquete de stickers. Instale la última versión de WhatsApp antes de agregar el paquete de stickers.</string>
+    <string name="dot">•</string>
+</resources>
